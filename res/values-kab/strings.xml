@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Anstop</string>
+<string name="reset">Alès awennez</string>
+<string name="settings">Iɣewwaṛen</string>
+<string name="hour">Isragen</string>
+
+<string name="refresh">Smiren</string>
+<string name="start_stop">Bdu/seḥbes</string>
+<string name="about">Ɣef</string>
+<string name="countdown">Aḥsab</string>
+<string name="countdown_please_set_hms">Ma ulac aɣilif,frêne isragen, tisdatin, allée tasinin akken ad tendu le</string>
+<string name="countdown_completed_please_refresh">Aḥsab ar 0 yemmed.\n
+ Ma iMac aɣilif, tekki ɣef Smiren akken ad tebduḍ tikelt nniḍen.</string>
+<string name="about_dialog">Anstop v1.6, d asnas meẓẓiyen i  usenker d uḥsab n wakud.\n
+ Copyright (C) 2009-2012,2014-2015 MJ akked Jeremy Monin\n
+ \n
+ Adeline d GPLv2 (http://www.gnu.org/licenses/gpl-2.0.html)\n
+ I tengalt aɣbalu, wali https://github.com/jdmonin/anstop</string>
+
+<string name="save">Sekles</string>
+<string name="load">Sali-d</string>
+<string name="debug_log">Aɣmis n ibugen</string>
+<string name="debug_notes">Seɣti tizmilin</string>
+<string name="copied_to_clipboard">Nɣel ɣef afus.</string>
+<string name="delete">Kkes</string>
+<string name="export">Sifeḍ ...</string>
+<string name="export_succes">Yettwasekles akken Iwata ar tkarḍa SD!</string>
+<string name="export_fail">Asifeḍ  yecceḍ!</string>
+<string name="export_all">Sifeḍ meṛṛa ...</string>
+<string name="mode_was">Askar telle d:</string>
+<string name="start_time">Akud n tazwara d:</string>
+<string name="started_at">Yebda di:</string>
+<string name="mode">Askar</string>
+<string name="cancel">Sefsex</string>
+<string name="vibrate">Senhez</string>
+<string name="send">Azen....</string>
+<string name="hours">Isragen:</string>
+<string name="minutes">Tisdatin:</string>
+<string name="seconds">Tasinin:</string>
+<string name="change">Beddel</string>
+<string name="comment">Awennit</string>
+<string name="confirm">Sentem</string>
+<string name="confirm_change_mode_message">Abeddel n uskar ad Tales awennez n uḥsab.</string>
+<string name="confirm_refresh_message">Tebɣlḍ ad talseḍ asali?</string>
+<string name="confirm_reset_message">Tebɣiḍ ad talseḍ awennez?</string>
+<string-array name="hour_formats_strings">
+	<item></item>
+	<item>Sken yal tikelt</item>
+	<item></item>
+</string-array>
+<string name="lap_format_wallclock_summary">Akud n wass</string>
+</resources>
